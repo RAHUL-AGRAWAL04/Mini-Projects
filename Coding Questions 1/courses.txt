@@ -1,0 +1,4 @@
+Maths, 150
+Statistics, 36
+Programming, 32
+english, 180 
